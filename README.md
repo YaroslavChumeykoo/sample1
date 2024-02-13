@@ -1,2 +1,2 @@
-Верстка шаблоны веб-страниц: https://yaroslavchumeykoo.github.io/sample1/ \n
+Верстка шаблоны веб-страниц: https://yaroslavchumeykoo.github.io/sample1/ <br>
 *Не кроссплатформенная
